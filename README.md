@@ -1,4 +1,4 @@
 # Flutter Ui Box
 
-## 1. Login Page
+## 1. Login & Register Page
 
